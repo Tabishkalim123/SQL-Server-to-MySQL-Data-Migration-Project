@@ -96,8 +96,4 @@ License
 
 This project is licensed under the MIT License.
 
----
 
-If you want, I can also **create a polished `requirements.txt` and a sample GitHub repo README with badges and links** so your project looks fully professional on GitHub.  
-
-Do you want me to do that next?
